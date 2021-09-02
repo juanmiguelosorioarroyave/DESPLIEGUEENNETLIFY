@@ -1,6 +1,7 @@
 *{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
+    
 }
 h1{
     background-color:white;
@@ -22,25 +23,24 @@ h1{
         padding: 20px;
         color: black;
         text-align: center;
-        box-shadow: 0 0 20px rgba(186, 23, 186, 0.4);
+        box-shadow: 0 0 20px rgba(7, 168, 204, 0.693);
         border-radius: 15px;
-        background: linear-gradient(white 40%,dodgerblue 0%);
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-
+        background: linear-gradient(white 34%,dodgerblue 0%);
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+
 .uno,.tres{
     width: 50px;
     height: 50px;
 } 
 .base{
-    background-color:dodgerblue;
-    width: 55%;
-    height: 54px;
+    background-color: dodgerblue;
+    width: 30%;
+    height: 50px;
     align-items: center;
     border-radius: 10px;
     margin-top: -63px;
-    margin-left: 208px; 
+    margin-left: 460px; 
 }
 
 .dos{
@@ -49,6 +49,6 @@ h1{
 }
 
 .uno{
-    margin-left: 35%;
+    margin-left: 33%;
 
 }
