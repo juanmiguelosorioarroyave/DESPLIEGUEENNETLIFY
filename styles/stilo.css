@@ -35,12 +35,13 @@ h1{
 } 
 .base{
     background-color: dodgerblue;
-    width: 30%;
+    width: 19%;
     height: 50px;
     align-items: center;
     border-radius: 10px;
     margin-top: -63px;
-    margin-left: 460px; 
+    margin-left: 760px;
+    justify-items: center;
 }
 
 .dos{
@@ -59,9 +60,9 @@ body {
     position: fixed;
     top: 0%;
     left: 0%;
-    z-index: -1;
-    background-image:url(../images/pxd-shader-updated_2.gif)
-
+    background-image:url(../images/pxd-shader-updated_2.gif);
+    background-repeat: repeat-x;
+    background-size: cover;
 }
 
 
